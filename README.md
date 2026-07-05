@@ -2,7 +2,6 @@
 
 This is my e-commerce site for SEG3125 Assignment 4. I went with a World Cup themed fan gear shop selling jerseys, scarves, mini balls, flags, caps, and wristbands.
 
-
 ## Running it
 
 ```bash
