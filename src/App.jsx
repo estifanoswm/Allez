@@ -11,7 +11,7 @@ const INVENTORY = [
   { id: 5, name: "Home Jersey — Morocco", category: "Jersey", country: "Morocco", price: 85, flag: "🇲🇦", image: "/images/jersey-morocco.jpg", swatch: "#C1272D", swatch2: "#006233", desc: "Red and green, a subtle pattern inspired by the national flag." },
   { id: 6, name: "Home Jersey — Canada", category: "Jersey", country: "Canada", price: 82, flag: "🇨🇦", image: "/images/jersey-canada.jpg", swatch: "#D80621", swatch2: "#FFFFFF", desc: "Bold red, unisex cut, perfect for cheering from home." },
   { id: 7, name: "Home Jersey — Germany", category: "Jersey", country: "Germany", price: 89, flag: "🇩🇪", image: "/images/jersey-germany.jpg", swatch: "#000000", swatch2: "#FFCE00", desc: "Clean white base with black and gold trim detailing." },
-  { id: 8, name: "Home Jersey — Congo", category: "Jersey", country: "Congo", price: 85, flag: "�🇬", image: "/images/jersey-congo.jpg", swatch: "#008751", swatch2: "#FFFFFF", desc: "Vivid green panels with a bold graphic collar." },
+  { id: 8, name: "Home Jersey — Congo", category: "Jersey", country: "Congo", price: 85, flag: "🇨🇩", image: "/images/jersey-congo.jpg", swatch: "#008751", swatch2: "#FFFFFF", desc: "Vivid green panels with a bold graphic collar." },
   { id: 9, name: "Home Jersey — Spain", category: "Jersey", country: "Spain", price: 87, flag: "🇪🇸", image: "/images/jersey-spain.jpg", swatch: "#AA151B", swatch2: "#F1BF00", desc: "Rich red with gold trim, lightweight performance mesh." },
   { id: 10, name: "Home Jersey — Netherlands", category: "Jersey", country: "Netherlands", price: 85, flag: "🇳🇱", image: "/images/jersey-netherlands.jpg", swatch: "#FF4B00", swatch2: "#FFFFFF", desc: "Bright orange with a subtle tonal pattern and crew neck." },
 
